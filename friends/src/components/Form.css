@@ -1,0 +1,10 @@
+ .formConatiner {
+  height: 400px;
+  width: 40%;
+  border: 1px blue solid;
+  margin: 0 auto;
+}
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
