@@ -1,0 +1,9 @@
+ div .listContainer {
+  width: 40%;
+  height: 250px;
+  border: 1px solid red;
+  margin: 0 auto;
+  margin-top: 50px;
+  background-color: rgba(222, 223, 224,1);
+  text-align: center;
+}
